@@ -18,19 +18,21 @@ namespace GitTestConsole
             
         }
 
+        private void Test3()
+        {
+
+        }
+
+        private void Test4()
+        {
+
+        }
+
         private bool Test2()
         {
             return false;
         }
 
-        private void Test3()
-        {
-            
-        }
-
-        private void Test4()
-        {
-            
-        }
+       
     }
 }
