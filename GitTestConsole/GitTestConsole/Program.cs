@@ -27,5 +27,10 @@ namespace GitTestConsole
         {
             
         }
+
+        private void Test4()
+        {
+            
+        }
     }
 }
