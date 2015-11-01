@@ -13,6 +13,16 @@ namespace GitTestConsole
             Console.WriteLine("test");
         }
 
+        private void Sebastian()
+        {
+            
+        }
+
+        private bool Test2()
+        {
+            return false;
+        }
+
         private void Test()
         {
             
@@ -28,10 +38,7 @@ namespace GitTestConsole
 
         }
 
-        private bool Test2()
-        {
-            return false;
-        }
+       
 
        
     }
