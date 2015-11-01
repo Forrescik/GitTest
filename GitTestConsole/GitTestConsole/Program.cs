@@ -18,9 +18,9 @@ namespace GitTestConsole
             
         }
 
-        private void Test2()
+        private bool Test2()
         {
-            
+            return false;
         }
 
         private void Test3()
