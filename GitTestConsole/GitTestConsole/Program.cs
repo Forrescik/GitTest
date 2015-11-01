@@ -10,6 +10,17 @@ namespace GitTestConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
+        }
+
+        private void Test()
+        {
+            
+        }
+
+        private void Test2()
+        {
+            
         }
     }
 }
