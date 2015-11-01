@@ -15,7 +15,7 @@ namespace GitTestConsole
 
         private void Sebastian()
         {
-            Console.WriteLine("test");
+            Console.WriteLine("test12");
         }
 
         private bool Test2()
