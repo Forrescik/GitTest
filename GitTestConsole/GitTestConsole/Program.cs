@@ -10,7 +10,6 @@ namespace GitTestConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
         }
     }
 }
