@@ -25,7 +25,7 @@ namespace GitTestConsole
 
         private void Test()
         {
-            
+            Console.WriteLine("test");
         }
 
         private void Test3()
