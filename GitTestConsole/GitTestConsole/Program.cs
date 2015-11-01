@@ -10,12 +10,12 @@ namespace GitTestConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
+            Console.WriteLine("test12");
         }
 
         private void Sebastian()
         {
-            Console.WriteLine("test12");
+            Console.WriteLine("test");
         }
 
         private bool Test2()
